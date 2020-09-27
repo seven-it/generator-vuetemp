@@ -1,0 +1,24 @@
+{
+  "name": "generator-vuetemp",
+  "version": "1.0.1",
+  "description": "Vue template generator",
+  "main": "index.js",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator",
+    "vue",
+    "vue-cli",
+    "vue-temp"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "cxb123",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yeoman-generator": "^4.12.0"
+  }
+}
